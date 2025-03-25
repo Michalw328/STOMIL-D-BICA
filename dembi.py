@@ -1,0 +1,1 @@
+print("Jedyna motywacja jakiej robole potrzebują to bicz i krew")
